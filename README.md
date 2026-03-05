@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Margaretha Naibaho.
 
-An Software Engineer who loves building and sharing projects related to web, mobile, and backend technologies!
+A Software Engineer who loves building and sharing projects related to web, mobile, and backend technologies!
 
 I have experience working with **JavaScript**, and **Java Spring Boot, PostgreSQL, Python**, focusing on **frontend development** and **API design**. I also explore **deep learning for image processing**, specifically in **object detection models like SSD-MobileNetV2**.
 
