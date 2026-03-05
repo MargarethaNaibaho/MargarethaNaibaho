@@ -1,13 +1,13 @@
 ### Hi! 👋 I'm Margaretha Naibaho.
 
-An independent Software Engineer who loves building and sharing projects related to web, mobile, and backend technologies!
+An Software Engineer who loves building and sharing projects related to web, mobile, and backend technologies!
 
-I have experience working with **Java Spring Boot, PostgreSQL, Python**, and **JavaScript**, focusing on **frontend development** and **API design**. I also explore **deep learning for image processing**, specifically in **object detection models like SSD-MobileNetV2**.
+I have experience working with **JavaScript**, and **Java Spring Boot, PostgreSQL, Python**, focusing on **frontend development** and **API design**. I also explore **deep learning for image processing**, specifically in **object detection models like SSD-MobileNetV2**.
 
 ### 📌 About Me  
 - 🔭 I’m currently a **Front-end Developer**, focusing on JavaScript and Java Spring Boot  
 - 🌱 Exploring **deep learning for image classification** and **cloud deployment**  
-- 💬 Feel free to ask me about **Java backend development, REST APIs, and database design**  
+- 💬 Feel free to ask me about **JavaScript backend development, REST APIs, and database design**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/margaretha-gok-asi-naibaho/) 
 - ⚡ Fun fact: Used to teach English while diving into tech!
 
